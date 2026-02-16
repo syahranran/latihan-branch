@@ -1,2 +1,2 @@
-# latihan-branch
-# Repository untuk latihan
+# Latihan membuat branch baru
+# halaman
